@@ -33,3 +33,5 @@ Example:
 - User can query endpoint using various params and queries to retrieve an image with a specified height and width.
 - All images requested will be saved to disk.
 - If a user requests an image size that has already been requested, there is no need for resizing and the previously resized image will be returned.
+
+  
