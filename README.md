@@ -32,6 +32,6 @@ Example:
 # Functionality:
 - Endpoint query takes different params to retrieve an image from available images with a specified width and height.
 - All resized images will be saved in a specified folder.
-- If a user requests an image that has already been resized, the image will not be resize and return directly from a specified folder.
+- If a user requests an image that has already been resized, the image will not be resize and return directly from a specified folder. 
 
   
