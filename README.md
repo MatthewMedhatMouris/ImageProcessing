@@ -30,8 +30,8 @@ Example:
 - santamonica
 
 # Functionality:
-- User can query endpoint using various params and queries to retrieve an image with a specified height and width.
-- All images requested will be saved to disk.
-- If a user requests an image size that has already been requested, there is no need for resizing and the previously resized image will be returned.
+- Endpoint query takes different params to retrieve an image from available images with a specified width and height.
+- All resized images will be saved in a specified folder.
+- If a user requests an image that has already been resized, the image will not be resize and return directly from a specified folder.
 
   
